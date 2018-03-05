@@ -2,7 +2,7 @@
 
 I am a wikipedia user, and a developer, for links see:
 
-* [Wikipedia User Page](https://enwp.org/User:Zppix)
+* [Wikipedia User Page](http://enwp.org/User:Zppix)
 * [Wikiopen CEO/CTO](https://www.wikiopen.tk)
 * [Telegram](https://t.me/Zppix)
 * IRC: Zppix on Freenode
