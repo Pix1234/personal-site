@@ -9,7 +9,7 @@ I am a wikipedia user, and a developer, for links see:
 
 # [](#Information)More Information
 
-I've been a Wikipedia Editor since 2014, I am a Counter Vandalism Member of [Miraheze](https://meta.miraheze.org/wiki/User:Zppix). I volunteer for Mozilla as a Volunteer Support member. I volunteer developer for all the prior mentioned Organizations, as well as freelance.
+I've been a Wikipedia Editor since 2014, I am a Counter Vandalism Member of [Miraheze](https://meta.miraheze.org/wiki/User:Zppix). I volunteer for Mozilla as a Volunteer Support member. I volunteer develop for all the prior mentioned Organizations, as well as freelance.
 
 I am the Chief Executive Officer, and Chief Technical Officer of WikiOpen & WikiOpen Group.
 
