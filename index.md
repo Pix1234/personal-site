@@ -6,6 +6,7 @@ I am a wikipedia user, and a developer, for links see:
 * [Wikiopen CEO/CTO](https://wikiopen.tk)
 * [Telegram](https://t.me/Zppix)
 * IRC: Zppix on Freenode
+* [Contact me](/contact.html)
 
 # [](#Information)More Information
 
